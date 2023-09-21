@@ -60,9 +60,9 @@ Team Victorious' ULV is an innovative solution designed to function effectively 
 
 ## Prototype Views
 
-- **Front View**: [Insert Image Link]
-- **Isometric View**: [Insert Image Link]
-- **Chassis View**: [Insert Image Link]
+- **Front View**: ["C:\Users\shiva\Downloads\droid front 1.png"]
+- **Isometric View**: ["C:\Users\shiva\Downloads\droid side 1.png"]
+- **Chassis View**: ["C:\Users\shiva\Downloads\droid chassie.png"]
 
 ---
 
