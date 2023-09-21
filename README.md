@@ -1,8 +1,6 @@
 
 # ULV (Unmanned Land Vehicle) by Team Victorious
 
-![ULV Prototype](images/prototype.jpg)
-
 ## Objectives
 Team Victorious presents ULV, an unmanned ground vehicle designed to operate in difficult terrains and inaccessible areas. The vehicle offers the following features:
 
