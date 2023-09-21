@@ -65,7 +65,14 @@ Team Victorious' ULV is an innovative solution designed to function effectively 
 
 ## Technologies Used
 
-> [List out the technologies used in the project]
+> Raspberry Pi
+> fusion 360
+> Python
+> OpenCV
+> WebSockets
+> SLAM Algo
+> SQL
+> Cloud
 
 ---
 
