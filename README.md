@@ -6,6 +6,12 @@
 
 # ULV (Unmanned Land Vehicle) by Team Victorious
 
+## Patented Technology
+
+ ```sh
+Explosive bomb detection technology has been patented under the Indian Patents with Patent Number: 202311014046.
+ ```
+
 
 ## Objectives
 Team Victorious presents ULV, an unmanned ground vehicle designed to operate in difficult terrains and inaccessible areas. The vehicle offers the following features:
