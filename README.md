@@ -1,4 +1,8 @@
-![logo-removebg-preview](https://github.com/Priyanshu6268/Victorious_SIH1477/assets/70855458/fad42305-0bb9-45bf-a655-ac73d32d47c8)
+<p align="center">
+  <img width="300" height="150" src="https://github.com/Priyanshu6268/Victorious_SIH1477/assets/70855458/fad42305-0bb9-45bf-a655-ac73d32d47c8">
+</p>
+
+
 
 # ULV (Unmanned Land Vehicle) by Team Victorious
 
